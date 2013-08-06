@@ -6,11 +6,13 @@ An iOS Client for Arena's API
 Getting Started
 ----
 
-	#import "Arena.h"
-	...
+```objective-c
+#import "Arena.h"
+...
 
-	[Arena SetToken:@"xxxxxxxxxxxxxxxx"];
-	NSDictionary *channel=[Arena CreateChannel:@"My Channel"];
+[Arena SetToken:@"xxxxxxxxxxxxxxxx"];
+NSDictionary *channel=[Arena CreateChannel:@"My Channel"];
+```
 
 Todo
 ----
