@@ -1,7 +1,13 @@
 Arena-Client
 ============
 
-An iOS Client for Arena's API
+An iOS Client for Arena's API  
+
+[are.na](https://are.na/)
+
+API Documentation
+
+[dev.are.na](http://dev.are.na/)
 
 Getting Started
 ----
